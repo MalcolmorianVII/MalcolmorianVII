@@ -23,4 +23,4 @@ Skills: BASH / PYTHON / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MalcolmorianVII&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/MalcolmorianVII)  
+
