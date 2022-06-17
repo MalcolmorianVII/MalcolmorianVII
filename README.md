@@ -14,7 +14,6 @@ I enjoy working with the following technologies:
 Skills: BASH / PYTHON / JS / HTML / CSS
 
 - 🔭 I’m currently working on Bioinformatics software 
-- 🌱 I’m currently learning Javascript asynchronization techniques 
 - 📫 How to reach me: bdkutambe@gmail.com 
 
 
