@@ -4,16 +4,15 @@ I'm Belson Malcolm Kutambe from Malawi.Currently I work as a research assistant 
 My duties involve developing bioinformatics pipelines for processing sequencing data.
 
 I enjoy working with the following technologies:
+- Nextflow
 - Python
 - Bash
-- HTML
-- CSS
-- JS
+- Bactopia
 
 
-Skills: BASH / PYTHON / JS / HTML / CSS
+Skills: BASH / PYTHON / SNAKEMAKE / NEXTFLOW / BACTOPIA
 
-- 🔭 I’m currently working on Bioinformatics software 
+- 🔭 I’m currently working on developing Bioinformatics software to analyze datasets
 - 📫 How to reach me: bdkutambe@gmail.com 
 
 
